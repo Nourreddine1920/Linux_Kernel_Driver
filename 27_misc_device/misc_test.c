@@ -5,7 +5,7 @@
 
 /* Meta Information */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Johannes 4 GNU/Linux");
+MODULE_AUTHOR("Noureddine's Kernel Linux Driver Tutorial");
 MODULE_DESCRIPTION("A simple demonstration for a misc device");
 
 #define MAX_SIZE 256

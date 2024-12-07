@@ -3,7 +3,7 @@
 #include <linux/i2c.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Johannes 4 GNU/Linux");
+MODULE_AUTHOR("Noureddine's Kernel Linux Driver Tutorial");
 MODULE_DESCRIPTION("A simple I2C Device driver with driver_data");
 
 struct my_data {

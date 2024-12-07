@@ -4,7 +4,7 @@
 
 /* Meta Information */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Johannes 4 GNU/Linux");
+MODULE_AUTHOR("Noureddine's Kernel Linux Driver Tutorial");
 MODULE_DESCRIPTION("Module creates a folder and file in procfs and implements read and write callbacks");
 
 /* global variables for procfs folder and file */

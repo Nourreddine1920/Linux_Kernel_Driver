@@ -5,7 +5,7 @@
 
 /* Meta Information */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Johannes 4 GNU/Linux");
+MODULE_AUTHOR("Noureddine's Kernel Linux Driver Tutorial");
 MODULE_DESCRIPTION("A simple LKM for a gpio interrupt");
 
 /** variable contains pin number o interrupt controller to which GPIO 17 is mapped to */

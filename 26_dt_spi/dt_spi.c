@@ -10,7 +10,7 @@
 
 /* Meta Information */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Johannes 4 GNU/Linux");
+MODULE_AUTHOR("Noureddine's Kernel Linux Driver Tutorial");
 MODULE_DESCRIPTION("A driver for my simple AMTEGA SPI ADC");
 
 struct my_adc {

@@ -3,7 +3,7 @@
 
 /* Meta Information */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Johannes 4 GNU/Linux");
+MODULE_AUTHOR("Noureddine's Kernel Linux Driver Tutorial");
 MODULE_DESCRIPTION("A simple LKM to demonstrate the use of parameters");
 
 /* Kernel Module's Paramerters*/

@@ -13,7 +13,7 @@
 
 /* Meta Information */
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Johannes 4 GNU/Linux");
+MODULE_AUTHOR("Noureddine's Kernel Linux Driver Tutorial");
 MODULE_DESCRIPTION("Kernel Module which use poll to notify an userspace app when GPIO 17 has a rising edge");
 
 /** variable contains pin number o interrupt controller to which GPIO 17 is mapped to */
