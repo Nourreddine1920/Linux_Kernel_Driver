@@ -61,11 +61,3 @@ In this repo you can find examples for:
 37. Sysfs Class
 38. Kernel Log levels
 
-
-## More Information
-
-For more information about my Linux Driver examples check out my [videos and my playlist](https://www.youtube.com/watch?v=x1Y203vH-Dc&list=PLCGpd0Do5-I3b5TtyqeF1UdyD4C-S-dMa)
-
-## Support me
-
-If you want to support me, you can buy me a coffee [buymeacoffee.com/johannes4linux](https://www.buymeacoffee.com/johannes4linux).
